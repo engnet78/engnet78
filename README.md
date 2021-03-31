@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on making (desktop app / web app) usimg python + mysql 
-- 📫 https://github.com/engnet78, engnet78@gmail.com
+- 📫 https://github.com/engnet78 , https://github.com/engnet78?tab=repositories
 
 <!---
 engnet78/engnet78 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
